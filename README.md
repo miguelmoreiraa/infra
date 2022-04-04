@@ -1,2 +1,2 @@
 # infra
-Uma repositorio relacionado a criação de infraestrutura de em nuvem.
+Uma repositorio relacionado a criação de infraestrutura em nuvem.
